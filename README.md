@@ -7,21 +7,19 @@
 
 - 🔭 I’m currently working in **NEOM Project**
 
-- 🌱 I’m currently learning **Matplotlib & SAS (Advance)**
+- 🌱 Currently I am focusing on learning **Python libraries (Matplotlib, Panda, NumPy)**
 
-- 👯 I’m looking to collaborate on **ACES**
+- **I have worked on different projects**
 
-- 🤝 I’m looking for help with **Commercial Dashboards**
+- 🤝 My current projects is in process **Financial Analysis** & **Sales Analysis**
 
 - 👨‍💻 All of my projects are available at [C:/Users/wasim/OneDrive/Documents/DATA%20ANALYTICS%20NOTES%20,%20PROJECTS%20&%20CERTIFICATIONS/Portfolio-Website-Template-main/Portfolio-Website-Template-main/index.html](C:/Users/wasim/OneDrive/Documents/DATA%20ANALYTICS%20NOTES%20,%20PROJECTS%20&%20CERTIFICATIONS/Portfolio-Website-Template-main/Portfolio-Website-Template-main/index.html)
 
-- 📝 I regularly write articles on [Blog.com](Blog.com)
+- 📝 I regularly write articles on (Blog.com)
 
 - 💬 Ask me about **SQL, EXCEL, PYTHON, POWER BI**
 
 - 📫 How to reach me **wasimzaidi1099@gmail.com**
-
-- 📄 Know about my experiences [Wasimzaidi-CV](Wasimzaidi-CV)
 
 - Achivements **Best Performer**
 
