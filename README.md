@@ -18,8 +18,8 @@
 - 💬 Ask me about **SQL, EXCEL, PYTHON, POWER BI**
 
 - 📫 How to reach me **wasimzaidi1099@gmail.com**
-** +966506395516**
-** +919819457830**
+**+966506395516**
+**+919819457830**
 
 - Achivements **Best Performer**
 
