@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimhussain72&label=Profile%20views&color=0e75b6&style=flat" alt="wasimhussain72" /> </p>
 
-- 🔭 I’m currently working **NEOM Project**
+- 🔭 I’m currently working in **NEOM Project**
 
 - 🌱 I’m currently learning **Matplotlib & SAS (Advance)**
 
