@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [C:/Users/wasim/OneDrive/Documents/DATA%20ANALYTICS%20NOTES%20,%20PROJECTS%20&%20CERTIFICATIONS/Portfolio-Website-Template-main/Portfolio-Website-Template-main/index.html](C:/Users/wasim/OneDrive/Documents/DATA%20ANALYTICS%20NOTES%20,%20PROJECTS%20&%20CERTIFICATIONS/Portfolio-Website-Template-main/Portfolio-Website-Template-main/index.html)
 
-- 📝 I regularly write articles on (Blog.com)
-
 - 💬 Ask me about **SQL, EXCEL, PYTHON, POWER BI**
 
 - 📫 How to reach me **wasimzaidi1099@gmail.com**
+** +966506395516**
+** +919819457830**
 
 - Achivements **Best Performer**
 
