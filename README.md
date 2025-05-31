@@ -21,7 +21,7 @@
 **+966506395516**
 **+919819457830**
 
-- Achivements **Best Performer**
+- Achivements **(Best Performer)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
